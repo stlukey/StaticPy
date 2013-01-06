@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #
 # Copyright (c) 2013, Luke Southam <luke@devthe.com>
-# All rights reserved. See LICENSE.
+# All rights reserved. See LICENSE.md
 """
 StaticPy
 """
