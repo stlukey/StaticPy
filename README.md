@@ -1,4 +1,4 @@
-StaticPy
+StaticPy  (In Development)
 ========
 A highly customizable yet intuitive static web asset management system that aims to provide an
 *easier* solution for managing static packages for webapp developers.
